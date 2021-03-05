@@ -11,6 +11,5 @@ console.log("fast");
     } else{
         console.log("extremely fast");
     }
-
 }
 speedInfo("3500")
