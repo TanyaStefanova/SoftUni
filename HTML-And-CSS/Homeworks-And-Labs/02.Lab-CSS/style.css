@@ -1,0 +1,28 @@
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
+#red{
+    background-color:red;
+}
+#purple{
+    background-color:purple;
+}
+#orange{
+    background-color: orange;
+}
+
+div{
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: yellow;
+    margin: 20px;
+    font-family: "Indie Flower", sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
