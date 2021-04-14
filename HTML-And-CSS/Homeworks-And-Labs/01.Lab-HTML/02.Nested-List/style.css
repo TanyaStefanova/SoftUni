@@ -1,0 +1,13 @@
+ol{
+    list-style: upper-roman;
+}
+ol .letters{
+    list-style: lower-latin;
+}
+
+ul{
+    list-style: circle;
+}
+.tags{
+    list-style: disc;
+}
